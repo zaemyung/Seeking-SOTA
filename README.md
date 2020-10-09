@@ -32,7 +32,7 @@
 
 |  **일정** | **호스트** | **링크** |
 | :---: | :---: | :---: |
-|  Oct. 14 2020, FLD | 짐레옥 | #2 |
+|  Oct. 14 2020, FLD | 짐레옥 | [#2](https://github.com/zaemyung/ml-study/issues/2) |
 |  Oct. 16 2020, GEN | 영준 |  |
 |  Oct. 21 2020, FLD | 팡스 |  |
 |  Oct. 23 2020, GEN | 동건 |  |
