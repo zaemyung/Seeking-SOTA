@@ -22,6 +22,8 @@
   - ACL, EMNLP
 - Vision
   - CVPR, ICCV, ECCV
+- Data Mining & Application
+  - WWW, KDD
 
 ## 일정
 |  **일정** | **호스트** | **논문** | **참고자료** |
