@@ -31,6 +31,11 @@
   - 영준, 동건, 팡스, 짐레옥
 - [10월 스터디 일정](https://github.com/zaemyung/ml-study/blob/main/202010_plan.md)
 
+### 스터디 주소
+- https://us04web.zoom.us/j/9589424814?pwd=eDFGd1gzWlJxanlsYVlLbjRSMFd3UT09
+- ID de réunion : 958 942 4814
+- Code secret : rice
+
 ## 약속 사항
 - 해당 내용을 완벽하게 이해하여 전달하는 자리는 아니지만, 스터디 참여에는 진지하게 임함.
 - 즉, 스터디에 부득이한 사정없이 불참하지 않음.
