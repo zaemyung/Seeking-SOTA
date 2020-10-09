@@ -15,13 +15,21 @@
   - 어떤 문제를 어떻게, 어떤 성능으로 풀었고, 왜 이 점수를 주었는지 등.
 ![ex](https://raw.githubusercontent.com/zaemyung/zaemyung.github.io/master/img/sprint_example.png)
 
+#### 학회 리스트
+- General ML
+  - NeurIPS, ICML, ICLR
+- NLP
+  - ACL, EMNLP
+- Vision
+  - CVPR, ICCV, ECCV
+
 ## 일정
 |  **일정** | **호스트** | **논문** | **참고자료** |
 | :---: | :---: | :---: | :---: |
-|  Oct. 14 2020 | 김재명 |  |  |
-|  Oct. 16 2020 | 이광희 |  |  |
-|  Oct. 21 2020 | 김재명 |  |  |
-|  Oct. 23 2020 | 이광희 |  |  |
+|  Oct. 14 2020 | 짐레옥 |  |  |
+|  Oct. 16 2020 | 팡스 |  |  |
+|  Oct. 21 2020 | 짐레옥 |  |  |
+|  Oct. 23 2020 | 팡스|  |  |
 
 ## 약속 사항
 - 해당 내용을 완벽하게 이해하여 전달하는 자리는 아니지만, 스터디 참여에는 진지하게 임함.
