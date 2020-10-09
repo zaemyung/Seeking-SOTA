@@ -29,7 +29,7 @@
   - 짐레옥, 팡스, 동건, 영준
 - General ML Paper (GEN) 순서
   - 영준, 동건, 팡스, 짐레옥
-- [10월 스터디 일정](oct_plan.md)
+- [10월 스터디 일정](https://github.com/zaemyung/ml-study/blob/main/202010_plan.md)
 
 ## 약속 사항
 - 해당 내용을 완벽하게 이해하여 전달하는 자리는 아니지만, 스터디 참여에는 진지하게 임함.
