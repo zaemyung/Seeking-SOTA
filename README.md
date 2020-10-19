@@ -31,7 +31,7 @@
   - WWW, KDD
 
 ## 일정
-- 발표 순서: 짐레옥, 팡스, 동건, 영준
+- 발표 순서: 짐레옥 → 팡스 → 동건 → 영준
 - [10월 스터디 일정](https://github.com/zaemyung/ml-study/blob/main/202010_plan.md)
 
 ### 스터디 주소
