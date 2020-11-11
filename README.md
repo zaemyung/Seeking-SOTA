@@ -18,7 +18,6 @@
 - 최대한 각자 관심이 가는 논문들을 빠르게 skim reading하여 점수를 메기고, 간단하게 코멘트를 작성함.
 - 모두의 점수들로 논문들을 정렬하고, 논문들을 간단하게 소개함.
   - 어떤 문제를 어떻게, 어떤 성능으로 풀었고, 왜 이 점수를 주었는지 등.
-![ex](https://raw.githubusercontent.com/zaemyung/zaemyung.github.io/master/img/sprint_example.png)
 
 #### 학회 리스트
 - General ML
