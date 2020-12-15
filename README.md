@@ -33,9 +33,6 @@
 
 ## 일정
 - 발표 순서: 짐레옥 → 팡스 → 동건 → 영준
-- [10월 스터디 일정](https://github.com/zaemyung/ml-study/blob/main/202010_plan.md)
-- [11월 스터디 일정](https://github.com/zaemyung/ml-study/blob/main/202011_plan.md)
-- [12월 스터디 일정](https://github.com/zaemyung/ml-study/blob/main/202012_plan.md)
 
 ### 스터디 주소
 - https://us04web.zoom.us/j/9589424814?pwd=eDFGd1gzWlJxanlsYVlLbjRSMFd3UT09
