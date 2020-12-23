@@ -32,7 +32,7 @@
   - WWW, KDD
 
 ## 일정
-- 발표 순서: 짐레옥 → 팡스 → 동건 → 영준
+- 발표 순서: 짐레옥 → 팡스 → 동건 → 영준 → 제현
 
 ### 스터디 주소
 - https://us04web.zoom.us/j/9589424814?pwd=eDFGd1gzWlJxanlsYVlLbjRSMFd3UT09
