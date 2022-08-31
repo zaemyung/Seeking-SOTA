@@ -25,7 +25,7 @@
   - WWW, KDD
 
 ## 일정
-- 발표 순서: 김재명 →
+- 발표 순서: 김재명 → 이영준 → 김수인 → 이동건 → 현종환 → 남기성 → 정영섭
 
 ### 스터디 주소
 - https://us02web.zoom.us/j/9589424814?pwd=eDFGd1gzWlJxanlsYVlLbjRSMFd3UT09
