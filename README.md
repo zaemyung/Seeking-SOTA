@@ -30,8 +30,7 @@
 - 발표 순서: 김재명 → 이영준 → 김수인 → 이동건 → 현종환 → 남기성 → 정영섭 → 정민오 → 남궁민
 
 ### 스터디 주소
-- https://us02web.zoom.us/j/9589424814?pwd=eDFGd1gzWlJxanlsYVlLbjRSMFd3UT09
-- Code secret : rice
+- https://umn.zoom.us/j/9492803384
 
 ## 약속 사항
 - 해당 내용을 완벽하게 이해하여 전달하는 자리는 아니지만, 스터디 참여에는 진지하게 임함.
