@@ -2,7 +2,7 @@
 ### ML 스터디
 - **매주 수요일 진행**
   - **한국시간 10:45 PM ~ 11:15 PM (11:00 PM을 목표로 하나 길어질 수 있기에 11:15 PM이 hard limit..!)**
-  - 발표 순서에 따라 해당 발표자는 다음 세 가지 사이트를 활용하여 발표 시점 기준 두 달 이내에 발표된 논문들 중 한 편을 선정하여 발표함.
+  - 발표 순서에 따라 해당 발표자는 다음 세 가지 사이트를 활용하여 발표 시점 기준 서너달 이내에 발표된 논문들 중 한 편을 선정하여 발표하는 것을 권장함.
 	  1.	https://deeplearn.org/ 의 "Hot Papers" 칼럼
 	  2.	[Daily Papers](https://huggingface.co/papers)
 	  3.	[Trending Papers](https://trendingpapers.com/papers?o=pagerank_growth&pd=Since%20beginning&cc=Cited%20and%20uncited%20papers&c=All%20categories)
