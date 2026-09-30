@@ -7,7 +7,7 @@
     2. [Daily Papers](https://huggingface.co/papers)
     3. [Trending Papers](https://trendingpapers.com/papers?o=pagerank_growth&pd=Since%20beginning&cc=Cited%20and%20uncited%20papers&c=All%20categories)
   - 발표용 슬라이드를 반드시 만들 필요는 없으며, 논문을 함께 살펴보거나 블로그 글, 저자 슬라이드 등 활용 가능한 자료를 자유롭게 사용합니다.
-    - 요즘은 LLM이 슬라이드를 잘 만들어 주기 때문에, 논문을 정독한 뒤 슬라이드는 LLM의 도움을 받아 제작하는 것도 편리합니다.
+    - 논문을 정독한 뒤 슬라이드는 LLM의 도움을 받아 제작하는 것도 편리합니다.
 - 스터디 발표는 본 레포지토리에 이슈를 새로 생성하여 사전 자료, discussion 내용, 코멘트 등을 기록하고(모두 optional), 스터디가 끝나면 close합니다.
 - 공지나 기타 간단한 커뮤니케이션은 슬랙 채널을 통해 진행합니다.
 
